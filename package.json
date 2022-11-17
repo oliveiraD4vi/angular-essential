@@ -1,0 +1,26 @@
+{
+  "name": "angularbasic",
+  "version": "1.0.0",
+  "description": "Basic CRUD operations with Angular and JSON Server",
+  "scripts": {
+    "commit": "cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveiraD4vi/angular-essential.git"
+  },
+  "author": "Davi Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliveiraD4vi/angular-essential/issues"
+  },
+  "homepage": "https://github.com/oliveiraD4vi/angular-essential#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}
