@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Samsung Galaxy",
       "price": 1299.99
+    },
+    {
+      "name": "Lápis Preto",
+      "price": "0.99",
+      "id": 4
     }
   ]
 }
