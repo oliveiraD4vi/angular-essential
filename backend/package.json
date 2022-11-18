@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "JSON Server config",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "author": "Davi Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

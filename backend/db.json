@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lenovo IDEAPAD",
+      "price": "3299.99"
+    },
+    {
+      "id": 2,
+      "name": "MAC Book PRO",
+      "price": 12599.99
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy",
+      "price": 1299.99
+    },
+    {
+      "name": "Caneta Azul",
+      "price": "1.29",
+      "id": 5
+    },
+    {
+      "name": "Caneta Preta",
+      "price": "1.49",
+      "id": 6
+    }
+  ]
+}
