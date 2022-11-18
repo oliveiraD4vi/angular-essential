@@ -17,8 +17,13 @@
     },
     {
       "name": "Caneta Azul",
-      "price": "2.50",
-      "id": 4
+      "price": "1.29",
+      "id": 5
+    },
+    {
+      "name": "Caneta Preta",
+      "price": "1.49",
+      "id": 6
     }
   ]
 }
