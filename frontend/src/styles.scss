@@ -31,3 +31,17 @@ body {
 .v-middle {
   vertical-align: middle;
 }
+
+.card {
+  padding: 12px 18px;
+}
+
+.button-actions {
+  display: flex;
+
+  button {
+    &:first-child {
+      margin-right: 10px;
+    }
+  }
+}
