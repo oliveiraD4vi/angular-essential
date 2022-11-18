@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Lenovo IDEAPAD",
-      "price": "4299.99"
+      "price": "3299.99"
     },
     {
       "id": 2,
@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Samsung Galaxy",
       "price": 1299.99
+    },
+    {
+      "name": "Caneta Azul",
+      "price": "2.50",
+      "id": 4
     }
   ]
 }
