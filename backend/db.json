@@ -16,14 +16,9 @@
       "price": 1299.99
     },
     {
-      "name": "",
-      "price": null,
+      "name": "Lápis Preto",
+      "price": "0.99",
       "id": 4
-    },
-    {
-      "name": "Produto 2",
-      "price": "2.99",
-      "id": 5
     }
   ]
 }
