@@ -1,7 +1,13 @@
-.sidenav {
-  width: 200px;
+.container {  
+  .sidenav {
+    width: 200px;
+    
+    i {
+      margin-right: 10px;
+    }
+  }
 
-  i {
-    margin-right: 10px;
+  .content {
+    padding: 24px;
   }
 }
