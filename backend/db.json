@@ -14,6 +14,16 @@
       "id": 3,
       "name": "Samsung Galaxy",
       "price": 1299.99
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 4
+    },
+    {
+      "name": "Produto 2",
+      "price": "2.99",
+      "id": 5
     }
   ]
 }
